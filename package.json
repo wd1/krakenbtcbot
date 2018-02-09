@@ -1,0 +1,33 @@
+{
+  "name": "BitBot",
+  "version": "0.9.7",
+  "description": "Crypto-Currency Trading Bot",
+  "main": "app.js",
+  "dependencies": {
+    "async": "0.9.0",
+    "flat": "1.5.0",
+    "bitstamp-api": "0.1.9",
+    "mime": "1.2.11",
+    "moment": "2.9.0",
+    "mongojs": "0.18.0",
+    "pushover-notifications": "0.2.2",
+    "underscore": "1.7.0",
+    "kraken-exchange-api": "0.1.0",
+    "btc-e": "1.0.5",
+    "winston": "0.8.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/5an1ty/BitBot.git"
+  },
+  "keywords": [
+    "Cryptocurrency",
+    "Trading",
+    "Bot"
+  ],
+  "author": "Ruben Callewaert",
+  "license": "Apache License"
+}
